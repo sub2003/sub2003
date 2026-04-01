@@ -43,9 +43,11 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 ## ⏰ Time & Date
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Time-Live%20Clock-blue?style=for-the-badge&logo=clockify"/>
-  <img src="https://img.shields.io/badge/Date-2026-purple?style=for-the-badge&logo=calendar"/>
+  <img src="https://img.shields.io/badge/Local%20Time-Sri%20Lanka-blueviolet?style=for-the-badge&logo=clockify"/>
+  <img src="https://img.shields.io/badge/Year-2026-black?style=for-the-badge&logo=calendar"/>
 </p>
+
+
 
 ---
 
@@ -80,14 +82,6 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sub2003\&show_icons=true\&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sub2003\&layout=compact\&theme=tokyonight)
-</p>
 
 ---
 
