@@ -2,12 +2,19 @@
   <img src="https://raw.githubusercontent.com/sub2003/sub2003/refs/heads/main/banner.png" width="100%" />
 </p>
 
-# Hi 👋 I'm Subhanu
+<h1 align="center">Hi 👋 I'm Subhanu</h1>
 
+<h3 align="center">
+IT Undergraduate | Future AI Engineer | Python | IoT | Networking
+</h3>
 
-## IT Undergraduate | Future AI Engineer | Python | IoT | Networking
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2\&size=30\&center=true\&vCenter=true\&width=700\&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur"/>
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sub2003&color=blue"/>
+</p>
 
 ---
 
@@ -23,13 +30,14 @@
 </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 </p>
 
-
-
 ---
+
 ## ⏰ Time & Date
 
 <p align="center">
@@ -74,14 +82,57 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sub2003\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sub2003\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sub2003&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub2003&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🐍 Contribution Graph
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sub2003&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sub2003\&theme=tokyo-night)
+
+---
+
+## 📚 Currently Learning
+
+* Python Programming
+* Data Structures & Algorithms
+* Discrete Mathematics
+* Object Oriented Programming
+* Information Systems
+* Machine Learning
+
+---
+
+## 📌 Projects
+
+* Smart Medical Pill Box (Arduino)
+* Java Programming Projects
+* Networking Labs
+* Future Machine Learning Projects
+
+---
+
+## 🎯 Goals
+
+* Become one of the greatest AI Engineers
+* Build My Own IT Company
+* Learn AI, Networking, and Systems
+* Build AI Projects and Products
+* Contribute to Open Source
+
+---
+
+## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
