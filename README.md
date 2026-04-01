@@ -3,6 +3,12 @@
 </p>
 
 # Hi 👋 I'm Subhanu
+## 💻 Programming
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Programmer;IoT+Developer;Machine+Learning+Learner;Future+AI+Engineer"/>
+</p>
+
 
 ## IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2\&size=30\&center=true\&vCenter=true\&width=700\&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur)
