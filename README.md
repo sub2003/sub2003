@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="ppbanner.png" height="220">
-</p>
+  <img src="https://raw.githubusercontent.com/sub2003/sub2003/main/different-programming-languages.png" width="100%" />
+</p>>
 
 # Hi 👋 I'm Subhanu
 
