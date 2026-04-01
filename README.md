@@ -41,8 +41,9 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </p>
+
 
 
 
