@@ -7,6 +7,11 @@
 ## IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2\&size=30\&center=true\&vCenter=true\&width=700\&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur)
 
+## 💻 Programming
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=26&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Programmer;IoT+Developer;Machine+Learning+Learner;Future+AI+Engineer"/>
+</p>
 
 ---
 
@@ -20,6 +25,14 @@
 <a href="mailto:abcsraththanayaka21@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
+</p>
+
+---
+## ⏰ Time & Date
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Time-Live%20Clock-blue?style=for-the-badge&logo=clockify"/>
+  <img src="https://img.shields.io/badge/Date-2026-purple?style=for-the-badge&logo=calendar"/>
 </p>
 
 ---
