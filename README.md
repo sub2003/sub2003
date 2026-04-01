@@ -5,6 +5,7 @@
 # Hi 👋 I'm Subhanu
 
 ## IT Undergraduate | Future AI Engineer | Python | IoT | Networking
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2\&size=30\&center=true\&vCenter=true\&width=700\&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur)
 
 
 ---
