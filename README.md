@@ -15,23 +15,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sub2003/sub2003/main/different-programming-languages.png" height="220"/>
-</p>
-
-<h1>Hi 👋 I'm Subhanu</h1>
-
-<h3>IT Undergraduate | Future AI Engineer | Python | IoT | Networking</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sub2003&color=blue"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
