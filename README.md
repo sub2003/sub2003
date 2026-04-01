@@ -40,14 +40,6 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/40c19df7-bb36-4ff1-8010-de4832040ba3">
-</p>
-
-
-
----
-
 ## 🚀 Skills
 
 <table>
