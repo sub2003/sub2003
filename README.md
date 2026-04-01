@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sub2003/sub2003/refs/heads/main/ppbanner.png" width="100%" />
+  <img src="https://www.watelectronics.com/types-of-programming-languages-with-differences/" width="100%" />
 </p>
 
 # Hi 👋 I'm Subhanu
