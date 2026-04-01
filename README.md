@@ -41,18 +41,9 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 ---
 
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="450">
 </p>
 
-<h1 align="center">Hi 👋 I'm Subhanu</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;IoT+Enthusiast;Future+Tech+Entrepreneur"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500">
-</p>
 
 
 ---
