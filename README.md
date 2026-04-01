@@ -32,9 +32,11 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
-</p>
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sub2003\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sub2003\&layout=compact\&theme=tokyonight)
 
 ---
 
