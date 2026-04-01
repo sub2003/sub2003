@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" height="220">
+  <img src="ppbanner.png" height="220">
 </p>
 
 # Hi 👋 I'm Subhanu
