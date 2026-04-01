@@ -40,12 +40,12 @@ IT Undergraduate | Future AI Engineer | Python | IoT | Networking
 
 ---
 
-## ⏰ Time & Date
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Local%20Time-Sri%20Lanka-blueviolet?style=for-the-badge&logo=clockify"/>
-  <img src="https://img.shields.io/badge/Year-2026-black?style=for-the-badge&logo=calendar"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120">
 </p>
+
 
 
 
